@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "eslint5",
+    "target": "es5",
     "lib": ["dam", "dam.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
